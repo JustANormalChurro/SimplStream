@@ -8,9 +8,9 @@
 [![Issues](https://img.shields.io/github/issues/JustANormalChurro/SimplStream)](https://github.com/JustANormalChurro/SimplStream/issues)
 
 <div align="center">
-  ![Logo](https://i.imgur.com/JiTNH8d.png)  
+  <img src="https://i.imgur.com/JiTNH8d.png" alt="SimplStream Logo" width="300"/>
   <br><br>
-  <p><em>It's not Streaming, it's SimplStreaming</em></p>
+  <p><em>Where Streaming Meets Simplicity: Free, Unlimited Access to Movies, TV, and Live Channels – No Strings Attached!</em></p>
 </div>
 
 ## 🌟 Introduction
@@ -240,7 +240,7 @@ Donate to keep it free: [Cash App $justanormalchrurro](https://cash.app/$justano
 <div align="center">
   <p><strong>Made with ❤️ by <a href="https://github.com/JustANormalChurro">Andy</a> – Stream Simple, Live Epic!</strong></p>
   <br>
-![Detail View](https://i.imgur.com/RURTeBy.png)  
+  <img src="https://i.imgur.com/RURTeBy.png" alt="SimplStream Logo Light" width="300"/>
 </div>
 
 *Last Updated: October 16, 2025*

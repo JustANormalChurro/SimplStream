@@ -79,7 +79,7 @@ With these features, SimplStream isn't just a player – it's your personal ente
 ![Profile Selector](https://i.imgur.com/0QlrtHZ.png)  
 *Who's watching? screen with customizable avatars and easy profile switching.*
 
-**Live Demo**: Try it at [simplstream.app](https://simplstream.app) (hosted via Vercel/Netlify – deploy your own fork!).
+**Live Demo**: Try it at [simplstream.bolt.host](https://simplstream.bolt.host) (hosted via Bolt.new).
 
 ## 🚀 Quick Start
 
@@ -229,9 +229,6 @@ This project is licensed under the MIT License – free to use, modify, and dist
 Questions? Bugs? Feature requests? Hit us up:
 
 - **Email**: [admin.simplstream@protonmail.com](mailto:admin.simplstream@protonmail.com)
-- **GitHub Issues**: For tech support.
-- **X (Twitter)**: [@SimplStreamApp](https://x.com/SimplStreamApp)
-- **Discord**: Join the server [here](https://discord.gg/simplstream) (coming soon).
 
 Donate to keep it free: [Cash App $justanormalchrurro](https://cash.app/$justanormalchrurro). Every coffee counts! ☕
 

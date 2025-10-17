@@ -10,7 +10,7 @@
 <div align="center">
   <img src="https://i.imgur.com/JiTNH8d.png" alt="SimplStream Logo" width="300"/>
   <br><br>
-  <p><em>Where Streaming Meets Simplicity: Free, Unlimited Access to Movies, TV, and Live Channels – No Strings Attached!</em></p>
+  <p><em>It's not just streaming, it's SimplStreaming</em></p>
 </div>
 
 ## 🌟 Introduction
